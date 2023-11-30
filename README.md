@@ -1,4 +1,4 @@
-![express](https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/59ce84ce-a30a-4648-9a86-f365b5b18d33)### Hi there 👋
+### Hi there 👋
 
 I am currently a Third year <strong>Computer Science</strong> student at <strong>CADT</strong>, specialized in <strong>Software Engineering</strong>.
 I have completed several projects during my academic year by utilizing several technologies and have proven to be a great team member.
@@ -25,7 +25,7 @@ I really enjoy coding and always strive to learn new technologies. I am commited
     <img src="https://nodejs.org/static/images/logo.svg">
   </a>
   <a style="margin-right: 10px" title="ExpressJs" href="https://expressjs.com/">
-    ![expressjs](https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/44fcae3e-1fbf-456a-aca9-f1e6bf6156a4)
+    <img width="120" src="https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/44fcae3e-1fbf-456a-aca9-f1e6bf6156a4">
   </a>
 </div>
 
@@ -33,10 +33,10 @@ I really enjoy coding and always strive to learn new technologies. I am commited
 
 <div align="center">
   <a title="ReactJs" style="margin-right: 20px" href="https://react.dev/">
-    ![reactjs](https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/a2bb48b2-e2f2-4171-b584-c521881c4494)
+    <img width="60" src="https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/a2bb48b2-e2f2-4171-b584-c521881c4494">
   </a>
   <a title="NextJS" style="margin-right:20px" href="https://nextjs.org">
-    ![nextjs](https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/8da34f9c-a174-41bd-8af5-7d7fe70ce2e6)
+    <img width="200" src="https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/8da34f9c-a174-41bd-8af5-7d7fe70ce2e6">
   </a>
   <a title="Laravel" style="margin-right: 20px" href="https://laravel.com">
     <img src="https://laravel.com/img/logomark.min.svg">
@@ -45,8 +45,8 @@ I really enjoy coding and always strive to learn new technologies. I am commited
 
 <div align="center">
   <a title="MongoDB" style="margin-right: 20px" href="https://mongodb.com">
-    ![mongodb](https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/9d970a6f-2c73-4e68-baac-4e42c2ef0598)
-  </a>
+    <img width="150" src="https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/9d970a6f-2c73-4e68-baac-4e42c2ef0598">
+  </a> 
   <a title="MySQL" style="margin-right: 20px" href="https://www.mysql.com/">
     <img width=100 src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
   </a>
