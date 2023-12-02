@@ -31,7 +31,7 @@ I really enjoy coding and always strive to learn new technologies. I am commited
   </a>
   &nbsp;&nbsp;
   <a title="ExpressJs" href="https://expressjs.com/">
-    <img src="https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/fe568c04-8cbf-4e9c-93e7-4dae1409c844" width=150>
+    <img src="https://github.com/SovansunchhayKhoun/SovansunchhayKhoun/assets/116248823/47da3782-e65c-4b44-8701-7090b1d11213" width=110>
   </a>
 </div>
 
