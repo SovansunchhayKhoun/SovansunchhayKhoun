@@ -6,6 +6,11 @@
 
 🔥 <b>Team player</b>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SovansunchhayKhoun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="github- graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SovansunchhayKhoun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="most-used-lang" />
+</div>
+
 #### Reach Me
 <a title="sunchhay395@gmail.com" href="mailto:sunchhay395@gmail.com">![E-mail](https://img.shields.io/badge/-Email-white?style=flat&logo=Gmail)</a>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SovansunchhayKhoun)
