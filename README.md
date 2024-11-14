@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 Junior <b>Computer Science</b> student at <b>CADT</b>
+🎓 <b>Computer Science</b> student at <b>CADT</b>
 
 💻 <b>Software Engineering</b>
 
